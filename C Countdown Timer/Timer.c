@@ -16,11 +16,6 @@ int main()
         exit(0);
     }
 
-    if ((h = 0) && (m = 0) && (s = 0))
-    {
-
-    }
-
     while (1)// infinite loop here
     {
         s--;
